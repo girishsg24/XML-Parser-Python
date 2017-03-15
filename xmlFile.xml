@@ -1,0 +1,29 @@
+<bookstore>
+   <book id="bk111" test="1">
+      <author>O'Brien, Tim</author>
+      <title>MSXML3: A Comprehensive Guide</title>
+      <genre>Computer</genre>
+      <price>36.95</price>
+      <publish_date>2000-12-01</publish_date>
+      <description>The Microsoft MSXML3 parser is covered in
+
+      detail, with attention to XML DOM interfaces, XSLT processing,
+
+      SAX and more.</description>
+   </book>
+   <book id="bk112">
+      <author>Galos, Mike</author>
+      <title>Visual Studio 7: A Comprehensive Guide</title>
+      <genre>Computer</genre>
+      <price>49.95</price>
+      <size>22</size>
+      <publish_date>2001-04-16</publish_date>
+      <last_description test="1">Microsoft Visual Studio 7 is explored in depth,
+
+      looking at how Visual Basic, Visual C++, C#, and ASP+ are
+
+      integrated into a comprehensive development
+
+      environment.</last_description>
+   </book>
+</bookstore>
