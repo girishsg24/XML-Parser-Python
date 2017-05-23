@@ -3,7 +3,8 @@
 
 
 
- 1.       Parse an XML document.  Name of the file to parse should be given as the program argument.  Here is an example file:
+ 1. Parse an XML document.  Name of the file to parse should be given as the program argument. 
+    Here is an example file:
 
  
 
